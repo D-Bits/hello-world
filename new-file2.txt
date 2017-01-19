@@ -1,0 +1,7 @@
+Will something happen when the line is changed
+
+"another new file" 
+
+Yay for Git. Good things to come, I hope
+
+Making more changes
